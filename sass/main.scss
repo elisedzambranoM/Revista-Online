@@ -1,8 +1,14 @@
-@import '4-utils/variables.scss';
-
 @import '1-abstracts/reset.scss';
 
+@import '4-utils/variables.scss';
+
+@import '3-layout/header.scss';
+
+@import '3-layout/footer.scss';
+
 @import '3-layout/grid.scss';
+
+@import '3-layout/sidebar.scss';
 
 @import '1-abstracts/typography.scss';
 

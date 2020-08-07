@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    grid-area: header;
+
+
+    .nav {
+        ul {
+            display: flex;
+            align-items: center;
+
+            li {
+                margin: 3px;
+
+                a {
+                    text-decoration: none;
+                }
+
+            }
+
+        }
+    }
+}
